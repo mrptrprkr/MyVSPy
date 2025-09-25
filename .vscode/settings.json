@@ -1,0 +1,8 @@
+{
+  // Always use the Poetry venv in this folder
+  "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
+
+  // Quality-of-life
+  "editor.formatOnSave": true,
+  "python.testing.pytestEnabled": true
+}

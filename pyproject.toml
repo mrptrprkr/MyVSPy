@@ -2,7 +2,7 @@
 name = "MyVSPy"
 version = "0.1.0"
 description = ""
-authors = [{ name = "Peter Parker", email = "mrptrprkr@gmail.com" }]
+authors = [{ name = "Peter Parker", email = "121830546+mrptrprkr@users.noreply.github.com" }]
 requires-python = ">=3.13"
 dependencies = []
 
